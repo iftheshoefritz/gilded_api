@@ -1,7 +1,7 @@
 require 'sinatra'
 
 items = [
-  ["Sulfuras, Hand of Ragnaros", 1, 80],
+  ["Sulfuras, Hand of Ragnaros", 1, 90],
   ["Backstage passes to a TAFKAL80ETC concert", 11, 1],
   ["Aged Brie", 11, 1],
 ]
